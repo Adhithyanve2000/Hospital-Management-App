@@ -1,9 +1,0 @@
-com\reservation\model\UserModel.class
-com\reservation\TableResrvationSystemApplication.class
-com\reservation\controller\UserController.class
-com\reservation\repository\AdminRepository.class
-com\reservation\controller\AdminController.class
-com\reservation\model\TableModel.class
-com\reservation\model\DelicaciesModel.class
-com\reservation\repository\TableRepository.class
-com\reservation\repository\UserRepository.class
